@@ -1,0 +1,7 @@
+streamlit
+sentence-transformers
+torch
+keybert
+scikit-learn
+numpy
+huggingface-hub
